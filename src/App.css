@@ -3,7 +3,7 @@
   list-style: none;
   display: flex;
   position: relative;
-  justify-content: center;
+  justify-content: left;
   background: #1c3b28;
   height:5rem;
   width: 100%;
@@ -11,9 +11,17 @@
  
 }
 
+.mi-tienda{
+  font-size: 2rem;
+  position: absolute;
+  align-self: center;
+  color: white;
+  left: 45%;
+}
+
 li {
   margin: 0 20px;
-  margin-top: 1.5rem;
+  align-self: center;
   font-weight: 700;
   color: white;
 }
