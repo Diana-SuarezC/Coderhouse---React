@@ -1,4 +1,4 @@
-import shoppingcart from './cart.png';
+import shoppingcart from '/cart.png';
 function Cartwidget() {
   return (
     <div>
