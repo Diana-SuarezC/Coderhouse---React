@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  position: relative;
+  justify-content: left;
+  background: #1c3b28;
+  height:5rem;
+  width: 100%;
+  margin: auto auto;
+  
+}
+
+.mi-tienda{
+  font-size: 2rem;
+  position: absolute;
+  align-self: center;
+  color: white;
+  left: 45%;
+}
+
+li {
+  margin: 0 20px;
+  
+  
+ 
+}
+
+img{
+  height: 3rem;
+  position: absolute;
+  margin-left: 90%;
+  transform: translateY(-65px);
+}
+
+h1{
+  font-family: sans-serif;
+  margin: 2rem;
+}
+
+.menu{
+   text-decoration: none;
+   font-weight: 700;
+   color: white;
+   font-size: 1.5rem;
+   align-self: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
